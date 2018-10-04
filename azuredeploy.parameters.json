@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworkName": {
-            "value": "vnet-sasj-youngsters"
+            "value": "sasj"
         },
         "virtualNetworkResourceGroup": {
-            "value": "rg-sasj-youngsters-vnet"
+            "value": "rg-saja-script"
         },
         "subnetName": {
-            "value": "dev"
+            "value": "default"
         },
         "availabilitySetName": {
             "value": "sasj-youngsters-as"
